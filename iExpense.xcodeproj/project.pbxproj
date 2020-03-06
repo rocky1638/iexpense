@@ -13,6 +13,7 @@
 		61D859C62412E709005079CA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 61D859C52412E709005079CA /* Assets.xcassets */; };
 		61D859C92412E709005079CA /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 61D859C82412E709005079CA /* Preview Assets.xcassets */; };
 		61D859CC2412E709005079CA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 61D859CA2412E709005079CA /* LaunchScreen.storyboard */; };
+		61D859D42412F027005079CA /* AddExpenseView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61D859D32412F027005079CA /* AddExpenseView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		61D859C82412E709005079CA /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		61D859CB2412E709005079CA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		61D859CD2412E709005079CA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		61D859D32412F027005079CA /* AddExpenseView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddExpenseView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				61D859BF2412E708005079CA /* AppDelegate.swift */,
 				61D859C12412E708005079CA /* SceneDelegate.swift */,
 				61D859C32412E708005079CA /* ContentView.swift */,
+				61D859D32412F027005079CA /* AddExpenseView.swift */,
 				61D859C52412E709005079CA /* Assets.xcassets */,
 				61D859CA2412E709005079CA /* LaunchScreen.storyboard */,
 				61D859CD2412E709005079CA /* Info.plist */,
@@ -149,6 +152,7 @@
 				61D859C02412E708005079CA /* AppDelegate.swift in Sources */,
 				61D859C22412E708005079CA /* SceneDelegate.swift in Sources */,
 				61D859C42412E708005079CA /* ContentView.swift in Sources */,
+				61D859D42412F027005079CA /* AddExpenseView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
